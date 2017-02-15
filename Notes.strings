@@ -1,0 +1,23 @@
+/* 
+  Notes.strings
+  PushMyNotifs
+
+  Created by Ahmed T Khalil on 2/13/17.
+  Copyright © 2017 kalikans. All rights reserved.
+*/
+
+/*
+
+There are a lot of setup instructions for push notifications, most of which can be found here:
+ 
+ https://firebase.google.com/docs/cloud-messaging/ios/client
+ https://firebase.google.com/docs/cloud-messaging/ios/certs
+ https://firebase.google.com/docs/cloud-messaging/ios/first-message
+
+After you set up the necessary certificates and such, be sure to turn on 'Push Notifications' in the Capabilities tab of the PushMyNotifs.xcodeproj file to add entitlements
+
+ Install 'Firebase/Messaging' Pod
+ 
+ Then configure the app delegate file to use Firebase Cloud Messaging (FCM)
+
+*/
